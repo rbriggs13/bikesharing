@@ -1,7 +1,7 @@
 # NYC Citibike Analysis
 
 ## Overview
-The purpose of this analysis is to determine whether or not opening up a bike sharing company is feasible in Des Moines, Iowa. This is done by examing the data from the month of August from a similar company in NYC. The visualizations used for this analysis can be found here: [link to dashboard](https://public.tableau.com/app/profile/ryan.briggs/viz/NYC_Citibike_Challenge_16381151297850/Citibike_Challenge?publish=yes)
+The purpose of this analysis is to determine whether or not opening up a bike sharing company is feasible in Des Moines, Iowa. This is done by examining the data from the month of August from a similar company in NYC. The visualizations used for this analysis can be found here: [link to dashboard](https://public.tableau.com/app/profile/ryan.briggs/viz/NYC_Citibike_Challenge_16381151297850/Citibike_Challenge?publish=yes)
 ## Results
 ### Visualization 1
 The first visualization is a simple pie graph showing the breakdown of single use customers and people who suscribe to the bike share service. This shows an overwhelming amount of customers subscribe to the service, this is a good thing as Des Moines wouldn't have as many tourists as NYC, the demographic that would make up most of the single use customers.
